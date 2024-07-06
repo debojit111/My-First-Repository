@@ -56,3 +56,8 @@ footer a {
     float: left;
     color: white;
 }
+
+a:hover{
+    color: red;
+    text-decoration: none;
+}
