@@ -9,7 +9,7 @@ h1{
     font-weight: bolder;
 }
 
-.shopping.list{
+.list{
     color: blue;
 }
 
@@ -38,4 +38,8 @@ h1{
 .next.page.indicator{
 
     color: rgb(0, 66, 33);
+}
+
+.Hello{
+    color: indianred;
 }
