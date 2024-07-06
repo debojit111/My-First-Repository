@@ -1,0 +1,9 @@
+
+li{
+    list-style-type: square;
+}
+
+.special{
+    color: brown;
+    font-weight: 200;
+}
