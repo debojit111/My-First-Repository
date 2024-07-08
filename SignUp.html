@@ -7,24 +7,27 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SIGN UP</title>
-    <sub>debojit111</sub>
-    <a href="index.html">MAIN PAGE</a>
+    <link rel="stylesheet" href="Style/SignUp.css">
  </head>
  <body>
-   <form action="">
-       <h1>FORM</h1>
+   <footer>
+      <a class="href" href="index.html">MAIN PAGE</a>
+   </footer>   
+  <div class="container">
+   <form action="" method="get">
+       <h1 class="main_heading">FORM</h1>
        <p>required fields have <b>*</b></p>
        <h2>Information</h2>
-       <p>Name: * <input type="text" name="Name" required></p>
+       <p>Name: * <input type="text" name="Name" placeholder="example example" required></p>
        <fieldset>
          <legend>Gender</legend>
          <p>
           Male: *<input type="radio" name="gender" id="male"> Female: * <input type="radio" name="gender" id="female" required>
       </p> 
      </fieldset>
-     <p>Address: <textarea name="address" id="address" cols="100" rows="10"></textarea></p>
-     <p>Email: <input type="email" name="email" id="email"></p> 
-     <p>Pincode: * <input type="number" name="pincode" required></p>
+     <p>Address: <textarea name="address" id="address" placeholder="Put your address" cols="100" rows="10"></textarea></p>
+     <p>Email: <input type="email" name="email" placeholder="example@gmail.com" id="email"></p> 
+     <p>Pincode: * <input type="number" name="pincode" placeholder="123456" required></p>
      <h2>Information</h2>
      <p>Variable Type: *
         <select name="card_type" id="card_type" required>
@@ -35,13 +38,14 @@
         </select>
      </p>
      <p>
-        Variable Number <input type="number" name="variable_number" id="variable_number" required>
+        Variable Number <input type="number" name="variable_number" id="variable_number" placeholder="1111-2222-3333-4444" required>
      </p>
      <p>Expiration Date: <input type="date" name="exp_date" id="exp_date" ></p>
-     <p>PIN <input type="password" name="PIN" id="PIN"></p> 
+     <p>PIN <input type="password" name="PIN" id="PIN" placeholder="123"></p> 
      <input type="submit" value="Submit Your Variable">
 
     </form>
+    </div>
  </body>
 
  </html>

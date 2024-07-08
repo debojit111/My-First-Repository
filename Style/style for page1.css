@@ -49,14 +49,6 @@ footer a {
     color: white;
 }
 
-footer a {
-    text-decoration: none;
-    padding: 20px;
-    text-align: center;
-    float: left;
-    color: white;
-}
-
 a:hover{
     color: red;
     text-decoration: none;
