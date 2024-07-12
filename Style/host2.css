@@ -119,7 +119,8 @@ body{
     background-color: lightcoral;
 } */
 
-.container{
+
+/*  .container{
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-gap: 10px;
@@ -130,4 +131,83 @@ body{
     border: 3px green solid;
     border-radius: 3px;
    
+} */
+
+/* submit down there */
+/*
+
+input[type="submit"]{
+    background-color: brown;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
 }
+
+.submit{
+    
+}  */
+
+/* .gola{
+    width: 130px;
+    height: 85px;
+    background: red;
+    transition: width 1s , height 1s;
+
+}
+
+.gola:hover{
+    width:100%;
+    height:100%;
+}
+
+.c{
+    background: green;
+    height: 50px;
+    width: 100%;
+    position: relative;
+    opacity: 0.5;
+
+}
+
+*/
+
+
+
+
+
+
+
+.gola {
+    position: relative;
+    height: 300px;
+    width: 300px;
+    border: 2px solid #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  #randomLink {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    transition: all 0.3s ease;
+  }
+  
+  #randomLink:hover {
+    cursor: pointer;
+  }
+  
+  @media (max-width: 768px) {
+    .gola {
+      height: 200px;
+      width: 200px;
+    }
+  }
+  
