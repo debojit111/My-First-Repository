@@ -8,304 +8,6284 @@ document.addEventListener("DOMContentLoaded", function() {
         event.preventDefault();
 
         // Open the first tab
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
         
         // Open the first tab
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
-
-        // Open the first tab
-        window.open(link.href, "_blank");
-
-        // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
-
-        // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
-
-        // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
-
-        // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
-
-        // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
-
-        // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
-
-        // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
-
-        // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
-
-        // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the first tab
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the first tab
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the first tab
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the first tab
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the first tab
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the first tab
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the first tab
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
 
         // Open the second tab (adjust the URL as needed)
-        window.open(link.href, "_blank");
-    });
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+// Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+        
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+// Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+        
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+// Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+        
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+// Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+        
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+// Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+        
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+// Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+        
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+// Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+        
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+// Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+        
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+// Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+        
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+// Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+        
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+// Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+        
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the first tab
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+// Open the second tab (adjust the URL as needed)
+window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+// Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+        
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the first tab
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+
+        // Open the second tab (adjust the URL as needed)
+        window.open("https://www.youtube.com/watch?v=OrUd-gEfy7o", "_blank");
+});
 });
 
