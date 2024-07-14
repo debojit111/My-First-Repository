@@ -144,6 +144,7 @@ footer a:hover {
 }
 
 /* 
+i am talking about class="flex-align-right" class
     auto = right 
     0 = default
 */
@@ -155,6 +156,8 @@ footer a:hover {
 section h2 span{
     background: linear-gradient(to right, #f5d837, #bbb812);
     padding: 10px 55px;
+    border-radius: 20px;
+    color: white;    
 }
 
 @media screen and (max-width: 700px){
