@@ -4,10 +4,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Debjit Inc | HOME</title>
-    <link rel="stylesheet" href="Style/style css.css">
+    <link rel="apple-touch-icon" sizes="180x180" href="/Assets/LOGO/fav/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/Assets/LOGO/fav/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/Assets/LOGO/fav/favicon-16x16.png">
+    <link rel="manifest" href="/Assets/LOGO/fav/site.webmanifest">
+    <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
+    <link rel="stylesheet" href="/Main Codes/Css/style css.css">
 </head>
 <body>
-    
+
   <!-- <header> HELLO HELLO</header>
        <p>This is first para</p>
        <p>This is second para</p>
@@ -15,52 +20,61 @@
        <p>This is fourth para</p>
        <em>This is em tag</em>
        <em>This is used to emphasize text</em> -->
-     <br>
-     <header>
-        <h1></h1>
+     <header class="gif">
+        <div class="banner"></div>
+
+        <!-- <h1 class="header">APNI KAKSHA</h1> -->
      </header> 
      <nav>
         <a href="#">Home</a>
         <a href="#">College Reviews</a>
         <a href="#">Courses</a>
         <a href="#">Study Material</a>
-        <a href="#">Login/SignUp</a>
+        <a class="flex-align-right" href="#">Login/SignUp</a>
      </nav>
      <main>
-        <section> 
-            <h2> CLIENT VIDEOS </h2>
-            <video src="Rick Roll.mp4" width="20%" poster="gamer penguin.jpg" controls video></video>
-            <video src="Rick Roll.mp4" width="20%" poster="gamer penguin.jpg" controls video></video>
-            <video src="Rick Roll.mp4" width="20%" poster="gamer penguin.jpg" controls video></video>
+        <section class="a"> 
+            <h2> <span> CLIENT VIDEOS </span></h2>
+            <br>
+
+            <div class="carousel"
+            data-flickity='{ "wrapAround": true }'>
+            <div class="carousel-cell"><video class="a" src="/Assets/MP4 FILES/Rick Roll.mp4" poster="/Assets/IMG FILES/gamer penguin.jpg" controls video></video></div>
+            <div class="carousel-cell"><video class="a" src="/Assets/MP4 FILES/Rick Roll.mp4" poster="/Assets/IMG FILES/gamer penguin.jpg" controls video></video></div>
+            <div class="carousel-cell"><video class="a" src="/Assets/MP4 FILES/Rick Roll.mp4" poster="/Assets/IMG FILES/gamer penguin.jpg" controls video></video></div>
+            <div class="carousel-cell"><video class="a" src="/Assets/MP4 FILES/Rick Roll.mp4" poster="/Assets/IMG FILES/gamer penguin.jpg" controls video></video></div>
+            <div class="carousel-cell"><video class="a" src="/Assets/MP4 FILES/Rick Roll.mp4" poster="/Assets/IMG FILES/gamer penguin.jpg" controls video></video></div>
+          </div>
+
         </section>
-        <section>
-            <h2>WEB VIDEO</h2>
+        <section class="aa">
+            <h2><span>WEB VIDEO </span></h2>
             <iframe width="50%" height="75%" src="https://www.youtube.com/embed/EHKCJyEb1uA?si=UuFAM3YmqFt71Gfm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loop ></iframe>
             <iframe width="50%" height="75%" src="https://www.youtube.com/embed/EHKCJyEb1uA?si=UuFAM3YmqFt71Gfm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loop ></iframe>
             <iframe width="50%" height="75%" src="https://www.youtube.com/embed/EHKCJyEb1uA?si=UuFAM3YmqFt71Gfm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loop ></iframe>
 
         </section>
-        <section>
-            <h2>Study Material</h2>
-            <a target="_blank" href="jesc101.pdf"><img src="Study Materal png.png" alt="" width="24%" height="60%" ></a>
+        <section class="pdf aa">
+            <h2> <span>Study Material</span> </h2>
+            <a target="_blank" href="/Assets/IMG FILES/jesc101.pdf"><img src="/Assets/IMG FILES/Study Materal png.png" alt="" width="24%" height="60%" ></a>
         </section>
-        <section>
+        <section class="founder aa">
             <h2> 
-                Our Founder
+                <span>Our Founder</span>
             </h2>
-            <img src="/IMG FILES/Beluga1.jpg" alt="This is Beluga">
-            <h3> BELUGA </h3>
-            <a href="https://www.youtube.com/Srtenislive" target="_blank" rel="noopener noreferrer">Youtube</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-            <a href="https://www.instagram.com/reel/C8ivufWxNDv/?igsh=ZjFkYzMzMDQzZg==" target="_blank" rel="noopener noreferrer">Instagram</a>&nbsp;&nbsp; &nbsp;&nbsp;
+            <img src="/Assets/IMG FILES/Beluga1.jpg" alt="This is Beluga">
+            <h3 class="links"> BELUGA </h3>
+            <a class="links" href="#" target="_blank" rel="noopener noreferrer">Youtube</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+            <a class="links" href="#" target="_blank" rel="noopener noreferrer">Instagram</a>&nbsp;&nbsp; &nbsp;&nbsp;
         
-            <h4>|Our founder Beluga Is an great founder he founded this company | His real name is Bhatar Bhatar | TOTAL 1 Youtube Channel|</h4>
-            <h5>I HELP OTHER PEOPLE SO SUSSY THING I AM A MASTER MASTER OF SUSSY BAKA I MADE EVERYONE BAKA</h5>
+            <h4 class="links">|Our founder Beluga Is an great founder he founded this company | His real name is Death Note | TOTAL 1 Youtube Channel|</h4>
+            <h5 class="links">I HELP OTHER PEOPLE SO SUSSY THING I AM A MASTER MASTER OF SUSSY BAKA I MADE EVERYONE BAKA</h5>
         
         
         </section>
      </main>
 
-        <footer>
+        <footer class="aa">
          <a href="#">FAQ</a>
          <a href="#">Contact Us</a>
          <a href="#">Terms of Use</a>
@@ -74,6 +88,9 @@
      <br>
 
 
+     <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
     
 </body>
 </html>
+<!--https://www.instagram.com/_s_h_i_z_u_k_a_1x/-->
+<!--https://www.instagram.com/_n_o_b_i_t_a_1x/-->
