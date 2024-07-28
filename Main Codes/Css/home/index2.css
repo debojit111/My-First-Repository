@@ -1,0 +1,24 @@
+footer{
+    background-color: black;
+    overflow: hidden;
+    width: 380px; /* if SignUp available then do this to 511px*/
+    border-radius: 10vh;
+}
+
+footer a{
+    text-decoration: none;
+    padding: 20px;
+    text-align: center;
+    float: left;
+    color: white;
+}
+
+.heading{
+    font-size: xx-large;
+    font-weight: 900;
+}
+
+a:hover{
+    color: blue;
+    cursor: pointer;
+}
